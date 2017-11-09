@@ -1,3 +1,4 @@
-# for-whom-the-doggo-borks
+# test gh repo
 
-this isn't anything plz to move on.
+updating a repository w/o using the command-line
+(and instead using gh's drag + drop)
